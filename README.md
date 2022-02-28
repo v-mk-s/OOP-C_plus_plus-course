@@ -2,7 +2,6 @@
 OOP C++ course | BMSTU
 
 ## Description
-[Methods](https://github.com/v-mk-s/optimization-methods/tree/master/methods) are considered: SGD, Newton's, RMSProp, etc.
 A class template [TVector](https://github.com/v-mk-s/OOP-C_plus_plus-course/blob/master/source/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203-4/10/1/CVector.h) was created, and vector arithmetic was implemented.
 There were no libraries for working with vectors, only standard libraries.
 I used dynamic memory allocation.
