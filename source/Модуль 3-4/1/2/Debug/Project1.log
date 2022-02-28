@@ -1,0 +1,15 @@
+﻿Сборка начата 07.02.2020 16:16:57.
+     1>Проект "C:\Users\student.APHRODITE\Documents\2\Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\student.aphrodite\documents\2\main.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+                 c:\users\student.aphrodite\documents\2\main.cpp(60): см. ссылку на создание экземпляров функции шаблон при компиляции "int mymain<double>(void)"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student.APHRODITE\Documents\2\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\student.APHRODITE\Documents\2\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\student.APHRODITE\Documents\2\Debug\Project1.lib" /MACHINE:X86 Debug\main.obj
+         Project1.vcxproj -> C:\Users\student.APHRODITE\Documents\2\Debug\Project1.exe
+     1>Сборка проекта "C:\Users\student.APHRODITE\Documents\2\Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.79
