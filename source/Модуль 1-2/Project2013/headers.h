@@ -1,0 +1,1 @@
+int Equation_pow2(double a, double b, double c, double *p1, double *p2);
